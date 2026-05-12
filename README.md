@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://gitpk.vercel.app/?username=Amanekai">
-    <img src="https://gitpk.vercel.app/api/readme?username=Amanekai" alt="My GitHub Stats" />
+  <a href="https://gitpk.vercel.app/?username=pring-nt">
+    <img src="https://gitpk.vercel.app/api/readme?username=pring-nt" alt="My GitHub Stats" />
   </a>
 </div>
 
