@@ -1,4 +1,9 @@
 ## Hi there 👋
+<div align="center">
+  <a href="https://gitpk.vercel.app/?username=Amanekai">
+    <img src="https://gitpk.vercel.app/api/readme?username=Amanekai" alt="My GitHub Stats" />
+  </a>
+</div>
 
 <!--
 **AmaneKai/Amanekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
